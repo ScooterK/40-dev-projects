@@ -1,0 +1,20 @@
+{
+  "name": "40days-of-development",
+  "version": "1.0.0",
+  "description": "40 Days of Development is a project in which I develop a new project every day to practice web development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScooterK/40days-of-projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScooterK/40days-of-projects/issues"
+  },
+  "homepage": "https://github.com/ScooterK/40days-of-projects#readme"
+}

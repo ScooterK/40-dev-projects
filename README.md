@@ -24,8 +24,10 @@ on page load questions and randomized and the answer order is randomized.
 
 logic can dictate if need for radio buttons or checkboxes depending on how many correct answers
 
+Ask for a hint
+	hint removes two false answers. 
+
 click event that checks the answer selected is correct
 
 ability at end of questions to check and change answer of selected 
-
 ```

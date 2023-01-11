@@ -20,12 +20,16 @@ class {
 	correct position of answer in array 
 }
 
+show number of questions there are and number that have been answered 
+
 on page load questions and randomized and the answer order is randomized. 
 
 logic can dictate if need for radio buttons or checkboxes depending on how many correct answers
 
 Ask for a hint
 	hint removes two false answers. 
+
+click on 
 
 click event that checks the answer selected is correct
 

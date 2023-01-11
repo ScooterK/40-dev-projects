@@ -50,18 +50,25 @@ body{
             display: flex; 
             flex-direction: row;
             // flex-wrap: wrap;
+            padding: 10px 0;
+            border: 1px solid #ffffff; 
             .input_style{
-                background-color: red;
-                width: 10%;
+                // background-color: red;
+                width: 7%;
+                position: relative; 
                 input{
                     position: absolute; 
                     top: 50%; 
                     left: 50%;
+                    transform: translate(-50%, -50%);
+                }
+                ::before{
+                    border: 2px solid black; 
                 }
             }
             .label_style{
-                background-color: blue; 
-                width: 50%;
+                // background-color: blue; 
+                width: 92%;
             }
         }
 
